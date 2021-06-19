@@ -23,8 +23,8 @@ Analyze user behavior and social network data on IBM Watson platform to build a 
 
 The data is for IBM an online data science community through udacity. 
 
-### Licensing, Authors, Acknowledgements
+<!-- ### Licensing, Authors, Acknowledgements
 
 This project is part of Data scientist Nanodegree from udacity 
-
+ -->
 
