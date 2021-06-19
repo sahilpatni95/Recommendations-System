@@ -1,5 +1,11 @@
 # Recommendations with IBM
 
+
+### Project Motivation:
+
+Analyze user behavior and social network data on IBM Watson platform to build a recommendation engine based on to surface content most likely to be relevant to a user.  This project consisted of building various types of recommendation engines such as rank-based, user-user collaborative filtering, and matrix factorization.
+
+
 ### Installations
 
 This project requires **Python 3.x** and the following Python libraries installed:
@@ -13,10 +19,6 @@ You will also need to have software installed to run and execute an [iPython Not
 
 install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
-
-### Project Motivation:
-
-Analyze user behavior and social network data on IBM Watson platform to build a recommendation engine based on to surface content most likely to be relevant to a user.  This project consisted of building various types of recommendation engines such as rank-based, user-user collaborative filtering, and matrix factorization.
 
 ### Data:
 
